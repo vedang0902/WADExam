@@ -1,0 +1,38 @@
+/* vegetable/fruit button text colors (different for each) */
+button:nth-child(1) {
+    color: rgb(255, 0, 0);
+    font-family: 'Verdana', sans-serif;
+  }
+  button:nth-child(2) {
+    color: green;
+    font-family: 'Verdana', sans-serif;
+  }
+  button:nth-child(3) {
+    color: goldenrod;
+    font-family: 'Verdana', sans-serif;
+  }
+  button:nth-child(4) {
+    color: rgb(150, 11, 138);
+    font-family: 'Verdana', sans-serif;
+  }
+  button:nth-child(5) {
+    color: rgb(120, 247, 1);
+    font-family: 'Verdana', sans-serif;
+  }
+  button:nth-child(6) {
+    color: rgb(218, 32, 32);
+    font-family: 'Verdana', sans-serif;
+  }
+
+  /* Info display box */
+  #Organic-Fruits-and-vegetables {
+    background-color: #97f0e8;
+  }
+  
+  /* Footer styling */
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
